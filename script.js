@@ -1,6 +1,6 @@
-const wrapper = document.querySelector(".wrapper");
-const question = document.querySelector(".question");
-const gif = document.querySelector(".gif");
+const wrapper = document.querySelector(".hi");
+const question = document.querySelector(".hello");
+const gif = document.querySelector(".https://images.app.goo.gl/4fPeeqxThANKMZK49");
 const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
